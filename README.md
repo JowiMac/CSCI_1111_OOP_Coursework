@@ -5,11 +5,9 @@
 
 ## Here is a bit about myself
 
-#### John Macdonald
+#### My name is John Macdonald
 
-###### Southwest Technical College
-
-###### Software Development
+###### Southwest Technical College in the Software Development program
 
 ###### This repository is for learning Object Oriented Programming
 
