@@ -16,8 +16,9 @@ I built this code to make probability calculations faster
 Obj2.getProbability();
 '''
 This is what I am most proud of in my code (line 168 in ProbabilityTest.java) because
-the code did not work until this was added. I am also proud of it also becuase I was 
-able to insert objects into an array list and reference them with shorter names.
+the code would not output the correct information until this was added. I am also proud
+of it also becuase I was able to insert objects into an array list and reference them
+with shorter names.
 
 ## Tests
 Run JUnit4 to test the methods. I used multiple methods to receive an end result.
