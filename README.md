@@ -1,13 +1,15 @@
-# Object-Oriented-Programming-1
+# CSCI_1111_OOP_Coursework Object-Oriented-Programming-1
 
-### John Macdonald
+### This repository contains my coursework for CSCI 1111 - Object Oriented Programming 1 at Southwest Tech
 
-##### Southwest Technical College
+#### John Macdonald
 
-##### Software Development
+###### Southwest Technical College
 
-###### This repository is for learning Object Oriented Programming
+###### Software Development
 
-###### I am learning Java programming at Southwest Technical College
+####### This repository is for learning Object Oriented Programming
 
-###### I am taking this program to level-up my life in the world of occupations
+####### I am learning Java programming at Southwest Technical College
+
+####### I am taking this program to level-up my life in the world of occupations
